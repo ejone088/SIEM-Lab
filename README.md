@@ -8,6 +8,8 @@ While creating the Windows VM, I am going to reconfigure the default firewall ru
 
 
 Completed deployment of the Windows VM
+
+
 <img width="369" alt="image" src="https://github.com/ejone088/SIEM-Lab/assets/91700081/25acd881-c7b1-4008-ac68-d68a1390bc39">
 
 
