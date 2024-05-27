@@ -4,6 +4,6 @@ I will be creating a VM in the cloud (Microsoft Azure) and using it as a honeypo
 While creating the Windows VM, I am going to reconfigure the default firewall rule in place and create a new one to essentially open the VM to all traffic on the internet
 
 
-<img width="100" alt="image" src="https://github.com/ejone088/SIEM-Lab/assets/91700081/eee43b8e-93fc-45b3-91df-980ec650750d">
+<img width="200" alt="image" src="https://github.com/ejone088/SIEM-Lab/assets/91700081/eee43b8e-93fc-45b3-91df-980ec650750d">
 
 
