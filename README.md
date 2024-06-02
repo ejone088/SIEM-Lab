@@ -86,7 +86,7 @@ As attackers attempt to brute force the VM, their failed login attempts are bein
 <img width="710" alt="image" src="https://github.com/ejone088/SIEM-Lab/assets/91700081/2cb52190-3fe8-4cb3-85c2-bb0652d5524b">
 
 ## Attacks Visualized in Microsoft Sentinel
-Visulization of where the attacks are coming from using the map created in Microsoft Sentinel
+Visualization of where the attacks are coming from using the map created in Microsoft Sentinel
 
 <img width="568" alt="image" src="https://github.com/ejone088/SIEM-Lab/assets/91700081/ce01c445-747e-4aab-b1f2-ec4b6001d53b">
 
